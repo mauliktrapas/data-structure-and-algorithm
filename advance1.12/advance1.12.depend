@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1440954167 source:d:\setups\codeblocks\c_codes\advance1.12\main.cpp
+	<iostream>
+	"stack1.h"
+	"queue1.h"
+	"QueueByStack.h"
+	"StackByQueue.h"
+
+1440523679 d:\setups\codeblocks\c_codes\advance1.12\stack1.h
+
+1440588095 d:\setups\codeblocks\c_codes\advance1.12\queue1.h
+
+1440588095 source:d:\setups\codeblocks\c_codes\advance1.12\queue1.cpp
+	"queue1.h"
+	<iostream>
+
+1440523657 source:d:\setups\codeblocks\c_codes\advance1.12\stack1.cpp
+	"stack1.h"
+	<iostream>
+
+1440523250 d:\setups\codeblocks\c_codes\advance1.12\queuebystack.h
+
+1440588233 source:d:\setups\codeblocks\c_codes\advance1.12\queuebystack.cpp
+	"QueueByStack.h"
+	"stack1.h"
+	<iostream>
+
+1440587678 d:\setups\codeblocks\c_codes\advance1.12\stackbyqueue.h
+
+1440593906 source:d:\setups\codeblocks\c_codes\advance1.12\stackbyqueue.cpp
+	"StackByQueue.h"
+	"queue1.h"
+	<iostream>
+

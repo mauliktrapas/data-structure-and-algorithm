@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1442158025 source:d:\setups\codeblocks\c_codes\basic2.3.1\main.cpp
+	<iostream>
+	"QuickSort.h"
+
+1442157940 d:\setups\codeblocks\c_codes\basic2.3.1\quicksort.h
+
+1442157940 source:d:\setups\codeblocks\c_codes\basic2.3.1\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+

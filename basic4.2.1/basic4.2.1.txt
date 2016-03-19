@@ -1,0 +1,13 @@
+int size(BstNode* root){
+    if(root==NULL)
+        return 0;
+        cout << root->data << " root ";
+        left_size=size(root->left);
+       // cout << left_size << "  -left- ";
+        right_size=size(root->right);
+        cout << left_size << right_size << "  leftright-- ";
+        if(left_size==0 && right_size==0)
+            return 1;
+        else if(left_size!=0 || right_size!=0)
+return left_size+right_size+1;
+}

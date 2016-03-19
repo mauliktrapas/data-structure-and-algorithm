@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1440738762 source:d:\setups\codeblocks\c_codes\advance3.a.1\exchangestack.cpp
+	"ExchangeStack.h"
+	<iostream>
+	<stack>
+
+1440738743 d:\setups\codeblocks\c_codes\advance3.a.1\exchangestack.h
+
+1440832193 source:d:\setups\codeblocks\c_codes\advance3.a.1\main.cpp
+	<iostream>
+	"ExchangeStack.h"
+	"ExchangeSequence.h"
+	"ExchangeQueue.h"
+	"QueueSequence.h"
+
+1440739277 source:d:\setups\codeblocks\c_codes\advance3.a.1\exchangesequence.cpp
+	"ExchangeSequence.h"
+	<iostream>
+	<stack>
+
+1440728719 d:\setups\codeblocks\c_codes\advance3.a.1\exchangesequence.h
+
+1440836368 source:d:\setups\codeblocks\c_codes\advance3.a.1\exchangequeue.cpp
+	"ExchangeQueue.h"
+	<iostream>
+	<queue>
+
+1440770598 d:\setups\codeblocks\c_codes\advance3.a.1\exchangequeue.h
+
+1440832230 d:\setups\codeblocks\c_codes\advance3.a.1\queuesequence.h
+
+1440836368 source:d:\setups\codeblocks\c_codes\advance3.a.1\queuesequence.cpp
+	"QueueSequence.h"
+	<iostream>
+	<queue>
+

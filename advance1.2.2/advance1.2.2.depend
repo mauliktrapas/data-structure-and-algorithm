@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1440955627 source:d:\setups\codeblocks\c_codes\advance1.2.2\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdio>
+	<cstdlib>
+

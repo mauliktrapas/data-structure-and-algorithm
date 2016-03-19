@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446365285 source:d:\setups\codeblocks\c_codes\basic5.2.2\main.cpp
+	<iostream>
+	<queue>
+

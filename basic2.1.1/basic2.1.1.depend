@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1441297253 source:d:\setups\codeblocks\c_codes\basic2.1.1\insertionsort.cpp
+	"InsertionSort.h"
+	<iostream>
+
+1441297253 d:\setups\codeblocks\c_codes\basic2.1.1\insertionsort.h
+
+1442235894 source:d:\setups\codeblocks\c_codes\basic2.1.1\main.cpp
+	"InsertionSort.h"
+	"QuickSort.h"
+	"SelectionSort.h"
+	"BubbleSort.h"
+	"MergeSort.h"
+	<iostream>
+
+1442121752 d:\setups\codeblocks\c_codes\basic2.1.1\quicksort.h
+
+1442137187 source:d:\setups\codeblocks\c_codes\basic2.1.1\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+
+1442138352 source:d:\setups\codeblocks\c_codes\basic2.1.1\selectionsort.cpp
+	"SelectionSort.h"
+	<iostream>
+
+1442138396 d:\setups\codeblocks\c_codes\basic2.1.1\selectionsort.h
+
+1442149760 source:d:\setups\codeblocks\c_codes\basic2.1.1\bubblesort.cpp
+	"BubbleSort.h"
+	<iostream>
+
+1442148674 d:\setups\codeblocks\c_codes\basic2.1.1\bubblesort.h
+
+1442239165 d:\setups\codeblocks\c_codes\basic2.1.1\mergesort.h
+
+1442285752 source:d:\setups\codeblocks\c_codes\basic2.1.1\mergesort.cpp
+	"MergeSort.h"
+	<iostream>
+
